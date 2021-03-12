@@ -1,0 +1,38 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: #FDA7DF;
+}
+
+.nav-bar {
+    background-color: #6F1E51;
+    display: flex;
+    padding: 20px;
+    font-weight: 10px;
+}
+
+.nav-bar a {
+    margin: 8px 87px 0px 103px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.nav-bar a:hover {
+    margin: 8px 87px 0px 103px;
+    color: #000;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+.search-input {
+    padding: 8px;
+    border-radius: 9px;
+    border: none;
+
+}
